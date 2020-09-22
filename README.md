@@ -1,5 +1,6 @@
 M5Stack Core2 Infinite Bubble Wrap
 ===
+![explan](images/IMG_001.jpg "image001")
 M5Stack_Core2向けアプリ Infinite Bubble Wrap (無限プチ○○)です。
 
 I made an application that makes the best use of M5Stack_Core2. It`s called Infinite Bubble Wrap.
@@ -15,7 +16,8 @@ I made an infinite bubble wrap by taking advantage of the touch screen and vibra
 
 You can enjoy the tactile sensation of the cracking bubble wrap endlessly!!
 
-## features
+## Features
+![explan](images/IMG_002.jpg "image002")
 画面には4x3のセルが表示され、一定時間触るとセルが割れます。(振動feedback付)
 
 4x3 cells are displayed on the screen, and if you touch them for a period of time, the cells will crack. (With vibration feedback)
@@ -28,6 +30,7 @@ If all the cells are broken, touch the button at the bottom right to restore all
 セルをつぶした際に、ごく稀に当たり画像が表示されます。
 
 When you crush a cell, a hit image is displayed very rarely.
+![explan](images/IMG_003.jpg "image003")
 
 ## Caution !!
 このプログラムは数日で作られました。汚いコードでよければ参考にしてください。
