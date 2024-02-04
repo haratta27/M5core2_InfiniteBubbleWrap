@@ -33,7 +33,7 @@ When you crush a cell, a hit image is displayed very rarely.
 ![explan](images/IMG_003.jpg "image003")
 
 ## Caution !!
-このプログラムは数日で作られました。汚いコードでよければ参考にしてください。
+このプログラムは数日で作られました。拙いコードでよければ参考にしてください。
 
 This program was created in a few days. If you don`t mind the dirty code, please refer to it.
 
